@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQKDLCT">
+  <DataContextMoniker Name="/LINQKDLCTDataContext" />
+  <nestedChildShapes>
+    <classShape Id="25858588-8143-4c70-a97c-55b0beb25820" absoluteBounds="0.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LINQKDLCTDataContext/DKLichCT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5b0fe1c-6e74-45ec-9188-4515d0516df2" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b3f2e933-913b-4f83-80b3-a7440db9a864" absoluteBounds="3.75, 0.75, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/LINQKDLCTDataContext/HOTENDK" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c0c0b000-defe-4bff-b624-2f95a0b5f124" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71989fcd-5b74-4b0c-aace-56ac30d38076" absoluteBounds="0.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LINQKDLCTDataContext/TaiKhoangDN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a8ab65f-60d1-44aa-9f0b-cc480ea4224c" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
